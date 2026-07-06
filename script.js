@@ -9,5 +9,5 @@ if (idade >= 18) {
 } else {
     alert(`${nome}, você ainda não tem idade para dirigir!`);
 }
-idade = number(prompt("que pena tente novamente quando tiver mais velho")
+idade = Number(prompt("que pena tente novamente quando tiver mais velho")
                }
